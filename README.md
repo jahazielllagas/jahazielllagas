@@ -16,11 +16,6 @@ i'm Valiares, a passionate Computer Engineering students. With a strong foundati
 ![Static Badge](https://img.shields.io/badge/VISUAL_BASIC-blue?style=for-the-badge&logo=visualbasic&logoColor=blue&labelColor=white) ![Static Badge](https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=flutter&labelColor=black
 )
 
-# Machine Learning (Still in Progress)
-- I'm getting interest making an project regarding to machine learning and deep convulsion.
-
-![Static Badge](https://img.shields.io/badge/python-lightblue?style=for-the-badge&logo=python&labelColor=yellow&color=%233776AB)
-
 # What's Next?
 
 I'm excited to expand my skills and knowledge delving even deeper that gives me an interest and motivation to create a project!. Feel free to reach me out with projects. Right now, my repository seems kinda empty but i'll work we other projects that comes into my mind
