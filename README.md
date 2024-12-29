@@ -13,7 +13,7 @@ i'm Valiares, a passionate Computer Engineering students. With a strong foundati
 ![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&labelColor=black&color=%23777BB4) 
 
 # Software Development
-- We made some software like calculator, basketball timer & score, and a POS machine. 
+- We made some various  
 
 ![Static Badge](https://img.shields.io/badge/VISUAL_BASIC-blue?style=for-the-badge&logo=visualbasic&logoColor=blue&labelColor=white) ![Static Badge](https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=flutter&labelColor=black
 )
