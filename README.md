@@ -13,7 +13,8 @@ i'm Valiares, a passionate Computer Engineering students. With a strong foundati
 # Software Development
 - We made some software like calculator, basketball timer & score, and a POS machine. 
 
-![Static Badge](https://img.shields.io/badge/VISUAL_BASIC-blue?style=for-the-badge&logo=visualbasic&logoColor=blue&labelColor=white) 
+![Static Badge](https://img.shields.io/badge/VISUAL_BASIC-blue?style=for-the-badge&logo=visualbasic&logoColor=blue&labelColor=white) ![Static Badge](https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=flutter&labelColor=black
+)
 
 # Machine Learning (Still in Progress)
 - I'm getting interest making an project regarding to machine learning and deep convulsion.
