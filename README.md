@@ -7,7 +7,7 @@ i'm Valiares, a passionate Computer Engineering students. With a strong foundati
 ![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%233776AB)
 
 # Stats
-<div style="display: flex; flex-direction: row;">
+<div align"center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efreetgaming&layout=compact&theme=dark#gh-dark-mode-only"/>
 </div>
 
