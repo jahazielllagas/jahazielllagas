@@ -8,7 +8,7 @@ i'm Valiares, a passionate Computer Engineering students. With a strong foundati
 
 # Stats
 <p align"center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efreetgaming&layout=compact&theme=dark#gh-dark-mode-only"/>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efreetgaming&layout=compact&theme=dark#gh-dark-mode-only"/></a>
 </p>
 
 # Socials
