@@ -1,4 +1,4 @@
-# Hi!, My Name is Efreet👋
+# Hi!, My Name is Valiares👋
 i'm Valiares, a passionate Computer Engineering students. With a strong foundation in the following programming language below. I'm eager to learn, explore, and create cool projects in the near future.
 
 # Technologies
