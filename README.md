@@ -4,8 +4,8 @@ i'm Valiares, a passionate Computer Engineering students. With a strong foundati
 # Tools
 
 <h4>Programming Language</h4>
-![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=black&color=white)
 
+![Javascript](https://img.shields.io/badge/javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=black&color=white)
 ![Python](https://img.shields.io/badge/python-%233776AB?style=flat&logo=python&logoColor=white&labelColor=black&color=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4?style=flat&logo=php&logoColor=white&labelColor=black&color=white) 
 ![Visual Basic](https://img.shields.io/badge/visual_basic-%23512BD4?style=flat&logo=.net&logoColor=white&labelColor=black&color=white) 
