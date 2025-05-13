@@ -3,7 +3,7 @@ I'm Jahaziel G. Llagas, a developer based on the Philippines, a passionate devel
 
 # ⚙️ Tools
 
-<h4> Programming Language</h4>
+<h4>🟨 Programming Language</h4>
 
 ![Javascript](https://img.shields.io/badge/javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=black&color=white)
 ![Python](https://img.shields.io/badge/python-%233776AB?style=flat&logo=python&logoColor=white&labelColor=black&color=white) 
