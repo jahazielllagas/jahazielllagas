@@ -22,6 +22,8 @@ I'm Jahaziel G. Llagas, a developer based on the Philippines, a passionate devel
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3?style=flat&logo=bootstrap&logoColor=white&labelColor=black&color=white) 
 ![CSS](https://img.shields.io/badge/css-%23663399?style=flat&logo=css3&logoColor=white&labelColor=black&color=white)
 ![Bun](https://img.shields.io/badge/bun-white?logo=bun&logoColor=white&labelColor=black&color=white)
+![NodeJS](https://img.shields.io/badge/nodeJs-white?logo=node.js&logoColor=white&labelColor=black&color=white)
+
 
 
 <h4>🛢️ | Database:</h4>
@@ -30,6 +32,8 @@ I'm Jahaziel G. Llagas, a developer based on the Philippines, a passionate devel
 ![Firebase](https://img.shields.io/badge/firebase-%23DD2C00?style=flat&logo=firebase&logoColor=white&labelColor=black&color=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1?style=flat&logo=mysql&logoColor=white&labelColor=black&color=white)
 ![SQLite](https://img.shields.io/badge/sqlite-white?logo=sqlite&logoColor=white&labelColor=black&color=white)
+![Microsoft SQL Server](https://img.shields.io/badge/sql_server-white?logo=serverless&logoColor=white&labelColor=black&color=white)
+
 
 
 <h4>🛠️ | Operating System:</h4>
