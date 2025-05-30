@@ -34,7 +34,7 @@ I'm Jahaziel G. Llagas, a developer based on the Philippines, a passionate devel
 
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=black&color=white)
 
-<h4>📜 Software Development:</h4>
+<h4>📜 | Software Development:</h4>
 
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B?style=flat&logo=flutter&labelColor=black&color=white)
 
