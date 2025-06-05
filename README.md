@@ -1,5 +1,5 @@
 # 🐏 | About Me:
-I'm Jahaziel G. Llagas, a developer based on the Philippines, a passionate developer with a vast knowledge with different popular programming language. Specializing solving problems in regards to building a software and planning for the next action for the team. I built a quite of few software including the hotel management system with a website and chatapp in flutter
+I'm Jahaziel G. Llagas, a developer based on the Philippines, a passionate developer with a vast knowledge with different popular programming language. Specializing solving problems in regards to building a software and planning for the next action for the team. I built a quite of few software including the hotel management system with a website and chatapp in flutter.
 
 # ⚙️ | Tools
 
