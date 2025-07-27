@@ -23,7 +23,7 @@ I'm Jahaziel G. Llagas, a developer based on the Philippines, a passionate devel
 ![CSS](https://img.shields.io/badge/css-%23663399?style=flat&logo=css3&logoColor=white&labelColor=black&color=white)
 ![Bun](https://img.shields.io/badge/bun-white?logo=bun&logoColor=white&labelColor=black&color=white)
 ![NodeJS](https://img.shields.io/badge/nodeJs-white?logo=node.js&logoColor=white&labelColor=black&color=white)
-
+![Svelte](https://img.shields.io/badge/svelte-white?style=flat&logo=svelte&logoColor=white&labelColor=black)
 
 
 <h4>🛢️ | Database:</h4>
