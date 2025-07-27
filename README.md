@@ -34,6 +34,7 @@ I'm Jahaziel G. Llagas, a developer based on the Philippines, a passionate devel
 ![SQLite](https://img.shields.io/badge/sqlite-white?logo=sqlite&logoColor=white&labelColor=black&color=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/sql_server-white?logo=serverless&logoColor=white&labelColor=black&color=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-white?logo=postgresql&logoColor=white&labelColor=black&color=white)
+![MongoDB](https://img.shields.io/badge/mongodb-white?style=flat&logo=mongodb&logoColor=white&labelColor=black)
 
 
 
